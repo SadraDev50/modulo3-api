@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "nomeDoLanche":"Hamburguer",
+        "favorito":"true"
+        
+        },
+        {
+            "id":2,
+            "nomeDoLanche":"Coxinha",
+            "favorito":"true"
+           
+    }
+]
